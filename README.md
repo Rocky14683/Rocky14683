@@ -1,4 +1,4 @@
-### I Love Robots !<img src="https://user-images.githubusercontent.com/101498190/230772337-a8d01246-3361-471e-afe5-b4ca55e9e95b.gif" alt= “” width="20" height="20">
+### I Love Robots !<img src="https://user-images.githubusercontent.com/101498190/230772337-a8d01246-3361-471e-afe5-b4ca55e9e95b.gif" alt= “” width="25" height="25">
 
 
 <!--
