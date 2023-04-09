@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocky14683&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![74cd679b224a78b12cc5879ddaa17706](https://user-images.githubusercontent.com/101498190/230771783-c8cd2097-854f-4c6a-b68d-1a5344d00f7f.jpeg)
-<img src="74cd679b224a78b12cc5879ddaa17706" alt= “” width="135" height="113">
+
+<img src="![74cd679b224a78b12cc5879ddaa17706](https://user-images.githubusercontent.com/101498190/230771783-c8cd2097-854f-4c6a-b68d-1a5344d00f7f.jpeg)" alt= “” width="135" height="113">
