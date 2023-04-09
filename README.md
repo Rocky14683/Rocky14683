@@ -1,4 +1,4 @@
-### I Love Robots ![DelayedFamiliarGlassfrog-max-1mb](https://user-images.githubusercontent.com/101498190/230772337-a8d01246-3361-471e-afe5-b4ca55e9e95b.gif)
+### I Love Robots !<img src="https://user-images.githubusercontent.com/101498190/230772337-a8d01246-3361-471e-afe5-b4ca55e9e95b.gif" alt= “” width="10" height="20">
 
 
 <!--
@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocky14683&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 
-
-<img src="https://user-images.githubusercontent.com/101498190/230771783-c8cd2097-854f-4c6a-b68d-1a5344d00f7f.jpeg" alt= “” width="500" height="410">
