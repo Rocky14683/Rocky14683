@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 
-<img src="![74cd679b224a78b12cc5879ddaa17706](https://user-images.githubusercontent.com/101498190/230771783-c8cd2097-854f-4c6a-b68d-1a5344d00f7f.jpeg)" alt= “” width="135" height="113">
+<img src="https://user-images.githubusercontent.com/101498190/230771783-c8cd2097-854f-4c6a-b68d-1a5344d00f7f.jpeg" alt= “” width="135" height="113">
