@@ -3,6 +3,7 @@
 - Main developer of RockLib control library
 - Team Captain of 14683A Vex Robotics Team in 2022
 - Mechanical and software developer in Purdue Sigbot
+- Purdue Robotics Engineering Technology and CS minor
 
 <!--
 **Rocky14683/Rocky14683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
