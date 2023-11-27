@@ -1,5 +1,8 @@
 ### I Love Robots!  <img src="https://user-images.githubusercontent.com/101498190/230772337-a8d01246-3361-471e-afe5-b4ca55e9e95b.gif" alt= “” width="30" height="30">
-
+- Hi, I am Yu Shing(Rocky) Chen
+- Main developer of RockLib control library
+- Team Captain of 14683A Vex Robotics Team in 2022
+- Mechanical and software developer in Purdue Sigbot
 
 <!--
 **Rocky14683/Rocky14683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
