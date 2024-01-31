@@ -3,7 +3,7 @@
 - ✋🏻 I am Yu Shing(Rocky) Chen
 - Main developer of RockLib control library
 - Team Captain of 14683A Vex Robotics Team in 2022
-- Mechanical and software developer in Purdue Sigbot
+- Mechanical and software developer in Purdue SIGbots
 - Purdue Robotics Engineering Technology and CS minor
 
 
