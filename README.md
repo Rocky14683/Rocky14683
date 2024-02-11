@@ -1,7 +1,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me <img src="https://user-images.githubusercontent.com/101498190/230772337-a8d01246-3361-471e-afe5-b4ca55e9e95b.gif" alt= “” width="28" height="28">
-- ✋🏻 I am Yu Shing(Rocky) Chen
-- Main developer of RockLib control library
+- ✋🏻 I am Rocky Chen
+- Creator and single handed developer of RockLib control library
+- Project manager of Lemlib control library
 - Team Captain of 14683A Vex Robotics Team in 2022
 - Mechanical and software developer in Purdue SIGbots
 - PROS CLI developer
