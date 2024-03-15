@@ -19,6 +19,7 @@
 [![Rocky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocky14683&show_icons=false&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky14683&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝 &nbsp;Contact Info
-- Gmail: Rocky10208@gmail.com
-- LinkedIn: https://www.linkedin.com/in/yu-shing-chen-655a03290/
+- Gmail: [Rocky10208@gmail.com](mailto:Rocky10208@gmail.com)
+- Personal Website: [https://rocky14683.github.io/](https://rocky14683.github.io/)
+- LinkedIn: [https://www.linkedin.com/in/yu-shing-chen-655a03290/](https://www.linkedin.com/in/yu-shing-chen-655a03290/)
 - Instagram: [@Rocky_Shinggg](https://www.instagram.com/rocky_shinggg/?hl=zh-tw)
