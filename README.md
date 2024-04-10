@@ -4,7 +4,7 @@
 - Creator and single handed developer of RockLib control library
 - Project manager of Lemlib control library
 - Team Captain of 14683A Vex Robotics Team in 2022
-- Mechanical and software developer in Purdue SIGbots
+- Software developer in Purdue SIGbots
 - PROS CLI developer
 - Purdue Robotics Engineering Technology and CS minor
 
