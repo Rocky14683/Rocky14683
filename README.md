@@ -16,7 +16,12 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 
 
-[![Rocky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocky14683&show_icons=false&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky14683&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=Rocky14683&count_private=true&theme=radical&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky14683&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex,CSS,Javascript,SCSS,jupyter%20notebook,CMake&layout=compact&theme=radical" />
+</a>
 
 ### 🤝 &nbsp;Contact Info
 - Gmail: [Rocky10208@gmail.com](mailto:Rocky10208@gmail.com)
