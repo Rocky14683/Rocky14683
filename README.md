@@ -7,21 +7,17 @@
 - Team Captain of 14683A Vex Robotics Team in 2022
 - PROS CLI developer
 - Purdue Robotics Engineering Technology and CS minor
-
-
-### 🛠 &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=Rocky14683&count_private=true&theme=radical&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky14683&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex,CSS,Javascript,SCSS,jupyter%20notebook,CMake&layout=compact&theme=radical" />
 </a>
+
+### 🛠 &nbsp;Tech Stack
+[![My Languages](https://skillicons.dev/icons?i=c,cpp,rust,python,java)](https://skillicons.dev)
+
+
 
 ### 🤝 &nbsp;Contact Info
 - Gmail: [Rocky10208@gmail.com](mailto:Rocky10208@gmail.com)
