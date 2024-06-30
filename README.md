@@ -6,7 +6,7 @@
 - Project manager of Lemlib control library
 - Team Captain of 14683A Vex Robotics Team in 2022
 - PROS CLI developer
-- Purdue Robotics Engineering Technology and CS minor
+- Purdue Robotics Engineering Technology and CS
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=Rocky14683&count_private=true&theme=radical&rank_icon=github" />
 </a>
