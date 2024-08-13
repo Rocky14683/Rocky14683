@@ -41,3 +41,4 @@
 - ROS/ROS2
 - Rerun
 - Sensors processing
+- Assembly
