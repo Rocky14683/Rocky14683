@@ -1,12 +1,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me <img src="https://user-images.githubusercontent.com/101498190/230772337-a8d01246-3361-471e-afe5-b4ca55e9e95b.gif" alt= “” width="28" height="28">
 - ✋🏻 I am Rocky Chen
-- Software lead in Purdue ACM SIGbots
-- Main developer of VOSS control library
-- Project manager of Lemlib control library
-- Team Captain of 14683A Vex Robotics Team in 2022
-- PROS CLI developer
-- Purdue Robotics Engineering Technology and CS
+- Purdue Robotics and Computer Science
+- Software lead in Purdue ACM SIGbots (2024 VEX Robotics World Champion)
+- PROS developer
+- Robotics and embedded system enthusiast
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=Rocky14683&count_private=true&theme=radical&rank_icon=github" />
 </a>
@@ -22,7 +20,7 @@
 <div align="left">
   <a href="https://www.youtube.com/channel/UC1zfVYzOzsdLhLNWwKJjavg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
+  </a
   <a href="https://www.instagram.com/rocky_shinggg/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -36,3 +34,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+### 🤓 &nbsp;Learn In Progress
+
+- Embedded system
+- ROS/ROS2
+- Rerun
+- Sensors processing
