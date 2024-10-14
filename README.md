@@ -2,7 +2,7 @@
 ### 👨🏻‍💻 &nbsp;About Me <img src="https://user-images.githubusercontent.com/101498190/230772337-a8d01246-3361-471e-afe5-b4ca55e9e95b.gif" alt= “” width="28" height="28">
 - ✋🏻 I am Rocky Chen
 - Purdue Robotics and Computer Science
-- Software lead in Purdue ACM SIGbots (2024 VEX Robotics World Champion)
+- Software lead in Purdue ACM SIGBots (2024 VEX Robotics World Champion)
 - PROS developer
 - Robotics and embedded system enthusiast
 <a href="https://github.com/anuraghazra/github-readme-stats">
