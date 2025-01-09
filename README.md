@@ -14,7 +14,7 @@
 </a>
 
 ### 🛠 &nbsp;Tech Stack
-[![My Languages](https://skillicons.dev/icons?i=c,cpp,rust,python,java)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=cpp,c,rust,go,python,java,latex)](https://skillicons.dev)
 
 ### 🤝 &nbsp;Contact Info
 
