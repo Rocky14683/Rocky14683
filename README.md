@@ -10,7 +10,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=Rocky14683&count_private=true&theme=radical&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky14683&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex,CSS,Javascript,SCSS,jupyter%20notebook,CMake,Common%20Lisp&layout=compact&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky14683&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex,CSS,Javascript,SCSS,jupyter%20notebook,CMake,HTML,Common%20Lisp&layout=compact&theme=radical" />
 </a>
 
 ### 🛠 &nbsp;Tech Stack
