@@ -6,6 +6,7 @@
 - BLRS-AI competition team - 1898P lead
 - PROS kernel/cli developer
 - Robotics and embedded system enthusiast
+- **Rivian** Software Engineering Intern
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=Rocky14683&count_private=true&theme=radical&rank_icon=github" />
 </a>
