@@ -2,17 +2,19 @@
 ### 👨🏻‍💻 &nbsp;About Me <img src="https://user-images.githubusercontent.com/101498190/230772337-a8d01246-3361-471e-afe5-b4ca55e9e95b.gif" alt= “” width="28" height="28">
 - ✋🏻 I am Rocky Chen
 - Purdue Robotics and Computer Science
+- ex. **Rivian** Software Engineering Intern
+- **Figure AI** Software Engineer Intern
 - ex. Software lead and Electronics Lead for Purdue ACM SIGBots (2024 VEX Robotics World Champion)
 - ex. BLRS-AI competition team - 1898P lead
 - PROS kernel/cli developer
 - Robotics and embedded system enthusiast
-- ex. **Rivian** Software Engineering Intern
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=Rocky14683&count_private=true&theme=radical&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky14683&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex,CSS,Javascript,SCSS,jupyter%20notebook,CMake,HTML,Common%20Lisp,Shell&layout=compact&theme=radical" />
-</a>
+</a> -->
 
 ### 🛠 &nbsp;Tech Stack
 [![My Languages](https://skillicons.dev/icons?i=cpp,c,rust,go,python,java,latex)](https://skillicons.dev)
