@@ -3,7 +3,7 @@
 - ✋🏻 I am Rocky Chen
 - Purdue Robotics and Computer Science
 - ex. **Rivian** Software Engineering Intern
-- **Figure AI** Software Engineer Intern
+- **Figure AI** & **Waymo** Software Engineer Intern
 - ex. Software lead and Electronics Lead for Purdue ACM SIGBots (2024 VEX Robotics World Champion)
 - ex. BLRS-AI competition team - 1898P lead
 - PROS kernel/cli developer
@@ -33,11 +33,3 @@
   <a href="https://www.linkedin.com/in/yu-shing-chen" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
-
-### 🤓 &nbsp;Learn In Progress
-
-- Embedded system
-- ROS/ROS2
-- Rerun
-- Sensors processing
-- Assembly
